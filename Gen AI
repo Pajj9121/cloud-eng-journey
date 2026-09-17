@@ -1,1 +1,2 @@
-
+Retrieval Augmented Generation (RAG)->
+RAG is a process for retrieving information relevant to a task, providing it to the language model along with a prompt, and relying on the model to use this specific information when responding.
